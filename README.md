@@ -63,8 +63,8 @@ The Green Grocer App is a comprehensive mobile application designed to facilitat
 - **User Role Management:** Different interfaces and functionalities for Admins and Customers.
 - **Error Tracking:** Integrated tools like Firebase Crashlytics (recommended for app monitoring).
 
-## Contributing
-Contributions are welcome! Fork the repository and create a pull request with proposed changes.
-
 ## Contact
 For inquiries or support, contact [Afifa637](https://github.com/Afifa637).
+
+<img width="1200" height="750" alt="GreenGrocer" src="https://github.com/user-attachments/assets/ee7432fb-4d42-4eaf-8062-76611a2fd26e" />
+
